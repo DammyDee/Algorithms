@@ -1,6 +1,6 @@
 #=
 bubblesort:
-- Julia version: 
+- Julia version: 1.6.1
 - Author: AdewunmiAdedamola
 - Date: 2021-07-10
 =#
